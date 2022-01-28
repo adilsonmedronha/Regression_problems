@@ -1,4 +1,4 @@
-# Regression cases based on Linear regression. 
+# Regression cases based on Linear method. 
 
 obs: Logistic Regression is addressed at Classification_problems rep.
  
